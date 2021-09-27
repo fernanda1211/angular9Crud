@@ -1,2 +1,12 @@
-npm init - y
- 
+npm init -y
+npm i json-server  
+    - cria a dependencia no package.json 
+    - Ler um arquivo json e cria uma api baseada nesse json 
+
+npm start 
+
+ATALHOS VS
+
+ALT+SHIFT+F;   - FORTMATA O DOCUMENTO; 
+ALT+SHIFT+BAIXO; - COPIA
+
