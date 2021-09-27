@@ -10,3 +10,14 @@ ATALHOS VS
 ALT+SHIFT+F;   - FORTMATA O DOCUMENTO; 
 ALT+SHIFT+BAIXO; - COPIA
 
+** Instalacao App Angular 
+
+npm i -g @angular/cli
+sudo npm i -g @angular/cli (linux)
+
+** Criando o projeto 
+
+ng new frontend --minimal
+
+** Executar
+npm start  
